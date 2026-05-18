@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642768312077",
+    "project_id": "adasproject-2b791",
+    "storage_bucket": "adasproject-2b791.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642768312077:android:0864296c76242516394244",
+        "android_client_info": {
+          "package_name": "com.example.adas_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvrJcdoM3EH_knlP_QIhpLnAIPaVfi3I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
